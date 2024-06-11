@@ -1,3 +1,3 @@
 # public-gists
 
-[Manifest & Logo](https://gist.github.com/zpnst/4396391e45cf6db985893d7d9afc161c)
+<img src="https://github.com/taiga-labs/public-gists/blob/main/taiga_labs.png?raw=true" width="300" height="300">
